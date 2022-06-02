@@ -1,4 +1,5 @@
 import React, { useCallback, useEffect, useState } from "react";
+import "./App.css";
 import { DragDropContext } from "react-beautiful-dnd";
 import styled from "styled-components";
 import { blueBG, blueBG1, opaqueGray, whiteBG } from "../src/utils/colors";
